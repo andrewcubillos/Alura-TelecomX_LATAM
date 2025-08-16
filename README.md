@@ -54,5 +54,8 @@ pip install matplotlib
 ```bash
 pip install seaborn
 ```
+```bash
+pip install numpy
+```
 
 
