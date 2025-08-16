@@ -26,8 +26,8 @@ Seaborn
 
 | Archivo                        | Descripción                                  |
 |-------------------------------|----------------------------------------------|
-| [Desarrollo](Notebooks/Desarrollo_TelecomX_LATAM.ipynb)  | Recopilación y evalución de los datos y gráficos de los mismos|
 | [Informe Final](Notebooks/Informe_Final_Alura_Telecom_X_LATAM.ipynb)                  | Informe con el análisis y la conclusión del caso |
+| [Desarrollo](Notebooks/Desarrollo_TelecomX_LATAM.ipynb)  | Recopilación y evalución de los datos y gráficos de los mismos|
 | `Imágenes`                   | Carpeta con imágenes tomadas del archivo `Desarrollo_TelecomX_LATAM.ipynb` para su uso en el informe |
 
 ---
