@@ -57,5 +57,4 @@ pip install seaborn
 ```bash
 pip install squarify
 ```
-Importar el módulo en cuestión:
-```bash
+
