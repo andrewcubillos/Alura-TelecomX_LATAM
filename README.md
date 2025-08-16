@@ -1,5 +1,4 @@
-# Alura-TelecomX_LATAM
-Challenge Alura TelecomX_LATAM
+# Challenge Alura-TelecomX_LATAM
 ---
 Este proyecto es parte de la formación en Data Science de ONE-Tech Fundation
 
